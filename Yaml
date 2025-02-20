@@ -1,0 +1,11 @@
+
+---
+
+### **6. Optional Backend (Node.js + Express) (Optional)**
+
+If you want to extend the functionality with a back-end, follow this structure:
+
+1. **Install Node.js** and **Express**:
+   ```bash
+   npm init -y
+   npm install express
